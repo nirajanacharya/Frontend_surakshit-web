@@ -17,7 +17,7 @@ const Hero = () => {
             </p>
             <div className="flex flex-col lg:flex-row items-center justify-center lg:justify-start space-y-4 lg:space-y-0 lg:space-x-8">
               <a
-                href="http://localhost:8501/"
+                href="https://urlphisingdetection.streamlit.app/"
                 className="group relative inline-flex items-center px-8 py-4 text-lg font-semibold text-white bg-gradient-to-r from-blue-600 to-blue-500 rounded-xl transition-all duration-300 hover:scale-105 hover:shadow-2xl hover:shadow-blue-500/25"
               >
                 Check Your URL
